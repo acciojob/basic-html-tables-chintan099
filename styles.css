@@ -1,5 +1,7 @@
 
 /* Your CSS Code here. */
-table{
+th{
+	width:100%;
 	border:2px solid black;
+	text-align:center;
 }
